@@ -22,7 +22,7 @@
     "title": "À propos de moi",
     "greeting": "Bonjour",
     "content": "👋 Je suis Sandro Júnior, étudiant en Robotique à l'IPCA (Portugal), avec une formation en Statistique, Science des Données et Développement Logiciel. J'ai travaillé avec des outils comme Python, SQL, GCP et des systèmes embarqués tels que Raspberry Pi et Jetson Nano. Avec une expérience chez Ford Brésil et une solide formation en technologies back-end et front-end, je me concentre sur la création de solutions intégrées et pratiques qui combinent données, code et matériel. Je suis motivé par l'apprentissage continu et l'expérience internationale.",
-    "image": "images/myProfile.jpg",
+    "image": "myProfile.jpg",
     "tech_stacks": ["devicon:python", "devicon:java", "logos:javascript"]
   },
   "projects": {

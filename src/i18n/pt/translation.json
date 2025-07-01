@@ -22,7 +22,7 @@
     "title": "Sobre mim",
     "greeting": "Olá",
     "content": "👋 Sou Sandro Júnior, estudante de Robótica no IPCA (Portugal), com formação em Estatística, Ciência de Dados e Desenvolvimento de Software. Trabalhei com ferramentas como Python, SQL, GCP e sistemas embarcados como Raspberry Pi e Jetson Nano. Com experiência na Ford Brasil e formação sólida em tecnologias back-end e front-end, meu foco é criar soluções integradas e práticas que combinam dados, código e hardware. Sou movido pela aprendizagem contínua e experiência internacional.",
-    "image": "public/portfolio/myProfile.jpg",
+    "image": "myProfile.jpg",
     "tech_stacks": ["devicon:python", "devicon:java", "logos:javascript"]
   },
   "projects": {
