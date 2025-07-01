@@ -1,0 +1,271 @@
+{
+  "basic_info": {
+    "name": "Sandro Junior",
+    "titles": [
+      "Data Scientist",
+      "Systems Analyst",
+      "Robotics Student",
+      "Full-stack Developer"
+    ],
+    "socials": [
+      {
+        "icon": "mdi:linkedin",
+        "url": "https://www.linkedin.com/in/sandrojr/"
+      },
+      {
+        "icon": "mdi:github",
+        "url": "https://github.com/sandrorvr?tab=repositories"
+      }
+    ]
+  },
+  "about_me": {
+    "title": "About me",
+    "greeting": "Hi",
+    "content": "👋 I'm Sandro Júnior, a Robotics student at IPCA (Portugal), with a background in Statistics, Data Science, and Software Development. I've worked with tools like Python, SQL, GCP, and embedded systems such as Raspberry Pi and Jetson Nano. With experience at Ford Brazil and solid training in back-end and front-end technologies, I focus on creating integrated, practical solutions that combine data, code, and hardware. I'm driven by continuous learning and international experience.",
+    "image": "myProfile.jpg",
+    "tech_stacks": ["devicon:python", "devicon:java", "logos:javascript"]
+  },
+  "projects": {
+    "title": "projects",
+    "projects": [
+      {
+        "title": "Computer Vision System - LED LAB",
+        "startDate": "2021",
+        "description": "Developed at Laboratory of Statistics and Data Science (LEDS) using embedded systems with Raspberry Pi, Jetson Nano, Arduino, and ESP8266. This project involved computer vision applications and was presented at Ford Motor Company Brazil.",
+        "images": ["public/images/portfolio/OpenCV_Logo.png"],
+        "url": "https://github.com/sandrorvr",
+        "technologies": [
+          {
+            "class": "devicon:python",
+            "name": "Python"
+          },
+          {
+            "class": "devicon:raspberrypi",
+            "name": "Raspberry Pi"
+          },
+          {
+            "class": "devicon:arduino",
+            "name": "Arduino"
+          }
+        ]
+      },
+      {
+        "title": "Detector MAC",
+        "startDate": "",
+        "description": "A network monitoring tool that detects and logs MAC addresses on local networks, providing device tracking capabilities with configurable alert systems.",
+        "images": ["public/images/portfolio/sniffer.png"],
+        "url": "https://github.com/sandrorvr/detector_mac",
+        "technologies": [
+          {
+            "name": "Python",
+            "icon": "devicon:python",
+            "usage": "Core application logic"
+          },
+          {
+            "name": "Scapy",
+            "icon": "simple-icons:scapy",
+            "usage": "Network packet analysis"
+          },
+          {
+            "name": "SQLite",
+            "icon": "devicon:sqlite",
+            "usage": "Device database storage"
+          },
+          {
+            "name": "Bash",
+            "icon": "devicon:bash",
+            "usage": "Installation scripts"
+          }
+        ]
+      },
+      {
+        "title": "scrapingFetureCars",
+        "startDate": "2018",
+        "description": "A web scraping tool designed to extract and analyze vehicle listings from car marketplace websites, with data processing and visualization capabilities.",
+        "images": [
+          "public/images/portfolio/scraping.png"
+        ],
+        "technologies": [
+      {
+        "name": "Python",
+        "icon": "devicon:python",
+        "usage": "Core scraping logic"
+      },
+      {
+        "name": "BeautifulSoup",
+        "icon": "simple-icons:beautifulsoup",
+        "usage": "HTML parsing"
+      },
+      {
+        "name": "Pandas",
+        "icon": "simple-icons:pandas",
+        "usage": "Data processing"
+      },
+      {
+        "name": "Matplotlib",
+        "icon": "simple-icons:matplotlib",
+        "usage": "Data visualization"
+      }
+    ]
+      }
+    ]
+  },
+  "skills": {
+    "title": "Skills",
+    "icons": [
+      {
+        "name": "Python",
+        "class": "devicon:python",
+        "level": "90"
+      },
+      {
+        "name": "Java",
+        "class": "devicon:java",
+        "level": "80"
+      },
+      {
+        "name": "SQL",
+        "class": "devicon-plain:microsoftsqlserver-wordmark",
+        "level": "85"
+      },
+      {
+        "name": "PySpark",
+        "class": "devicon:apachespark",
+        "level": "80"
+      },
+      {
+        "name": "BigQuery",
+        "class": "devicon:googlecloud",
+        "level": "75"
+      },
+      {
+        "name": "React",
+        "class": "devicon:react",
+        "level": "70"
+      },
+      {
+        "name": "Django",
+        "class": "logos:django-icon",
+        "level": "75"
+      },
+      {
+        "name": "Embedded Systems",
+        "class": "devicon:embeddedc",
+        "level": "70"
+      },
+      {
+        "name": "Robotics",
+        "class": "mdi:robot-industrial",
+        "level": "65"
+      },
+      {
+        "name": "Agil",
+        "class": "iconoir:agile",
+        "level": "65"
+      }
+    ]
+  },
+  "experience": {
+    "title": "Experience",
+    "experiences": [
+      {
+        "company": "IPCA (Polytechnic Institute of Cávado and Ave)",
+        "title": "Collaborative Robotics and Industrial Intelligence",
+        "years": "2024 (Current)",
+        "mainTech": "Industrial Automation",
+        "mainTechIcon": "mdi:robot-industrial",
+        "technologies": [
+          "PLC Programming",
+          "Industrial Robotics",
+          "CNC Systems",
+          "CAD/CAM",
+          "Computer Vision",
+          "Embedded Systems"
+        ]
+      },
+      {
+        "company": "Ford Company Brazil",
+        "title": "Data Scientist",
+        "years": "2020-2024",
+        "mainTech": "Python/PySpark",
+        "mainTechIcon": "devicon:python",
+        "technologies": [
+          "Hadoop",
+          "GCP",
+          "SQL",
+          "PostgreSQL",
+          "MongoDB",
+          "Tableau",
+          "Power BI",
+          "BigQuery",
+          "Looker Studio"
+        ]
+      },
+      {
+        "company": "Public Sector",
+        "title": "Traffic Agent",
+        "years": "2022-2024",
+        "mainTech": "Monitoring Systems",
+        "mainTechIcon": "mdi:cctv",
+        "technologies": [
+          "Electronic Inspection",
+          "Traffic Management",
+          "Surveillance Systems"
+        ]
+      },
+      {
+        "company": "LED LAB - UFBA",
+        "title": "Research Assistant",
+        "years": "2021",
+        "mainTech": "Embedded Systems",
+        "mainTechIcon": "devicon:raspberrypi",
+        "technologies": [
+          "Computer Vision",
+          "Raspberry Pi",
+          "Jetson Nano",
+          "Arduino",
+          "ESP8266"
+        ]
+      },
+      {
+        "company": "Estácio de Sá University",
+        "title": "Systems Analysis and Development",
+        "years": "2019-2022",
+        "mainTech": "Software Engineering",
+        "mainTechIcon": "vscode-icons:file-type-js-official",
+        "technologies": [
+          "Algorithms",
+          "Database Systems",
+          "Software Architecture",
+          "Web Development"
+        ]
+      },
+      {
+        "company": "Federal University of Bahia - UFBA",
+        "title": "Bachelor's in Statistics",
+        "years": "2018",
+        "mainTech": "Statistical Analysis",
+        "mainTechIcon": "flat-color-icons:statistics",
+        "technologies": [
+          "Mathematics",
+          "Programming Logic",
+          "Statistical Modeling",
+          "Data Analysis"
+        ]
+      },
+            {
+        "company": "Brazilian Navy",
+        "title": "Military Service",
+        "years": "2018",
+        "mainTech": "Military Systems",
+        "mainTechIcon": "mdi:shield-star",
+        "technologies": [
+          "Discipline",
+          "Security Protocols",
+          "Technical Operations"
+        ]
+      }
+    ]
+  },
+  "copyright": "Copyright"
+}
