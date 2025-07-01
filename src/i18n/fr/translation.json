@@ -3,9 +3,9 @@
     "name": "Sandro Junior",
     "titles": [
       "Data Scientist",
-      "Systems Analyst",
-      "Robotics Student",
-      "Full-stack Developer"
+      "Analyste Système",
+      "Étudiant en Robotique",
+      "Développeur Full-stack"
     ],
     "socials": [
       {
@@ -19,19 +19,19 @@
     ]
   },
   "about_me": {
-    "title": "About me",
-    "greeting": "Hi",
-    "content": "👋 I'm Sandro Júnior, a Robotics student at IPCA (Portugal), with a background in Statistics, Data Science, and Software Development. I've worked with tools like Python, SQL, GCP, and embedded systems such as Raspberry Pi and Jetson Nano. With experience at Ford Brazil and solid training in back-end and front-end technologies, I focus on creating integrated, practical solutions that combine data, code, and hardware. I'm driven by continuous learning and international experience.",
-    "image": "myProfile.jpg",
+    "title": "À propos de moi",
+    "greeting": "Bonjour",
+    "content": "👋 Je suis Sandro Júnior, étudiant en Robotique à l'IPCA (Portugal), avec une formation en Statistique, Science des Données et Développement Logiciel. J'ai travaillé avec des outils comme Python, SQL, GCP et des systèmes embarqués tels que Raspberry Pi et Jetson Nano. Avec une expérience chez Ford Brésil et une solide formation en technologies back-end et front-end, je me concentre sur la création de solutions intégrées et pratiques qui combinent données, code et matériel. Je suis motivé par l'apprentissage continu et l'expérience internationale.",
+    "image": "images/myProfile.jpg",
     "tech_stacks": ["devicon:python", "devicon:java", "logos:javascript"]
   },
   "projects": {
-    "title": "projects",
+    "title": "Projets",
     "projects": [
       {
-        "title": "Computer Vision System - LED LAB",
+        "title": "Système de Vision par Ordinateur - LED LAB",
         "startDate": "2021",
-        "description": "Developed at Laboratory of Statistics and Data Science (LEDS) using embedded systems with Raspberry Pi, Jetson Nano, Arduino, and ESP8266. This project involved computer vision applications and was presented at Ford Motor Company Brazil.",
+        "description": "Développé au Laboratoire de Statistique et Science des Données (LEDS) utilisant des systèmes embarqués avec Raspberry Pi, Jetson Nano, Arduino et ESP8266. Ce projet impliquait des applications de vision par ordinateur et a été présenté chez Ford Motor Company Brésil.",
         "images": ["images/OpenCV_Logo.png"],
         "url": "https://github.com/sandrorvr",
         "technologies": [
@@ -50,38 +50,38 @@
         ]
       },
       {
-        "title": "Detector MAC",
+        "title": "Détecteur MAC",
         "startDate": "",
-        "description": "A network monitoring tool that detects and logs MAC addresses on local networks, providing device tracking capabilities with configurable alert systems.",
+        "description": "Outil de surveillance réseau qui détecte et enregistre les adresses MAC sur les réseaux locaux, offrant des capacités de suivi des appareils avec des systèmes d'alerte configurables.",
         "images": ["images/sniffer.png"],
         "url": "https://github.com/sandrorvr/detector_mac",
         "technologies": [
           {
             "name": "Python",
             "icon": "devicon:python",
-            "usage": "Core application logic"
+            "usage": "Logique principale de l'application"
           },
           {
             "name": "Scapy",
             "icon": "simple-icons:scapy",
-            "usage": "Network packet analysis"
+            "usage": "Analyse de paquets réseau"
           },
           {
             "name": "SQLite",
             "icon": "devicon:sqlite",
-            "usage": "Device database storage"
+            "usage": "Stockage de base de données des appareils"
           },
           {
             "name": "Bash",
             "icon": "devicon:bash",
-            "usage": "Installation scripts"
+            "usage": "Scripts d'installation"
           }
         ]
       },
       {
         "title": "scrapingFetureCars",
         "startDate": "2018",
-        "description": "A web scraping tool designed to extract and analyze vehicle listings from car marketplace websites, with data processing and visualization capabilities.",
+        "description": "Outil de web scraping conçu pour extraire et analyser des annonces de véhicules sur des sites de marché automobile, avec des capacités de traitement et visualisation des données.",
         "images": [
           "images/scraping.png"
         ],
@@ -89,29 +89,29 @@
       {
         "name": "Python",
         "icon": "devicon:python",
-        "usage": "Core scraping logic"
+        "usage": "Logique principale du scraping"
       },
       {
         "name": "BeautifulSoup",
         "icon": "simple-icons:beautifulsoup",
-        "usage": "HTML parsing"
+        "usage": "Analyse HTML"
       },
       {
         "name": "Pandas",
         "icon": "simple-icons:pandas",
-        "usage": "Data processing"
+        "usage": "Traitement des données"
       },
       {
         "name": "Matplotlib",
         "icon": "simple-icons:matplotlib",
-        "usage": "Data visualization"
+        "usage": "Visualisation des données"
       }
     ]
       }
     ]
   },
   "skills": {
-    "title": "Skills",
+    "title": "Compétences",
     "icons": [
       {
         "name": "Python",
@@ -149,42 +149,42 @@
         "level": "75"
       },
       {
-        "name": "Embedded Systems",
+        "name": "Systèmes Embarqués",
         "class": "devicon:embeddedc",
         "level": "70"
       },
       {
-        "name": "Robotics",
+        "name": "Robotique",
         "class": "mdi:robot-industrial",
         "level": "65"
       },
       {
-        "name": "Agil",
+        "name": "Agile",
         "class": "iconoir:agile",
         "level": "65"
       }
     ]
   },
   "experience": {
-    "title": "Experience",
+    "title": "Expérience",
     "experiences": [
       {
-        "company": "IPCA (Polytechnic Institute of Cávado and Ave)",
-        "title": "Collaborative Robotics and Industrial Intelligence",
-        "years": "2024 (Current)",
-        "mainTech": "Industrial Automation",
+        "company": "IPCA (Institut Polytechnique de Cávado et Ave)",
+        "title": "Robotique Collaborative et Intelligence Industrielle",
+        "years": "2024 (Actuel)",
+        "mainTech": "Automatisation Industrielle",
         "mainTechIcon": "mdi:robot-industrial",
         "technologies": [
-          "PLC Programming",
-          "Industrial Robotics",
-          "CNC Systems",
-          "CAD/CAM",
-          "Computer Vision",
-          "Embedded Systems"
+          "Programmation PLC",
+          "Robotique Industrielle",
+          "Systèmes CNC",
+          "CAO/FAO",
+          "Vision par Ordinateur",
+          "Systèmes Embarqués"
         ]
       },
       {
-        "company": "Ford Company Brazil",
+        "company": "Ford Company Brésil",
         "title": "Data Scientist",
         "years": "2020-2024",
         "mainTech": "Python/PySpark",
@@ -202,25 +202,25 @@
         ]
       },
       {
-        "company": "Public Sector",
-        "title": "Traffic Agent",
+        "company": "Secteur Public",
+        "title": "Agent de Circulation",
         "years": "2022-2024",
-        "mainTech": "Monitoring Systems",
+        "mainTech": "Systèmes de Surveillance",
         "mainTechIcon": "mdi:cctv",
         "technologies": [
-          "Electronic Inspection",
-          "Traffic Management",
-          "Surveillance Systems"
+          "Inspection Électronique",
+          "Gestion du Trafic",
+          "Systèmes de Surveillance"
         ]
       },
       {
         "company": "LED LAB - UFBA",
-        "title": "Research Assistant",
+        "title": "Assistant de Recherche",
         "years": "2021",
-        "mainTech": "Embedded Systems",
+        "mainTech": "Systèmes Embarqués",
         "mainTechIcon": "devicon:raspberrypi",
         "technologies": [
-          "Computer Vision",
+          "Vision par Ordinateur",
           "Raspberry Pi",
           "Jetson Nano",
           "Arduino",
@@ -228,44 +228,44 @@
         ]
       },
       {
-        "company": "Estácio de Sá University",
-        "title": "Systems Analysis and Development",
+        "company": "Université Estácio de Sá",
+        "title": "Analyse et Développement de Systèmes",
         "years": "2019-2022",
-        "mainTech": "Software Engineering",
+        "mainTech": "Ingénierie Logicielle",
         "mainTechIcon": "vscode-icons:file-type-js-official",
         "technologies": [
-          "Algorithms",
-          "Database Systems",
-          "Software Architecture",
-          "Web Development"
+          "Algorithmes",
+          "Systèmes de Base de Données",
+          "Architecture Logicielle",
+          "Développement Web"
         ]
       },
       {
-        "company": "Federal University of Bahia - UFBA",
-        "title": "Bachelor's in Statistics",
+        "company": "Université Fédérale de Bahia - UFBA",
+        "title": "Licence en Statistique",
         "years": "2018",
-        "mainTech": "Statistical Analysis",
+        "mainTech": "Analyse Statistique",
         "mainTechIcon": "flat-color-icons:statistics",
         "technologies": [
-          "Mathematics",
-          "Programming Logic",
-          "Statistical Modeling",
-          "Data Analysis"
+          "Mathématiques",
+          "Logique de Programmation",
+          "Modélisation Statistique",
+          "Analyse de Données"
         ]
       },
             {
-        "company": "Brazilian Navy",
-        "title": "Military Service",
+        "company": "Marine Brésilienne",
+        "title": "Service Militaire",
         "years": "2018",
-        "mainTech": "Military Systems",
+        "mainTech": "Systèmes Militaires",
         "mainTechIcon": "mdi:shield-star",
         "technologies": [
           "Discipline",
-          "Security Protocols",
-          "Technical Operations"
+          "Protocoles de Sécurité",
+          "Opérations Techniques"
         ]
       }
     ]
   },
-  "copyright": "Copyright"
+  "copyright": "Droits d'Auteur"
 }

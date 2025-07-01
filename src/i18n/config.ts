@@ -2,14 +2,18 @@ import i18next from "i18next";
 import { initReactI18next } from "react-i18next";
 import LanguageDetector from "i18next-browser-languagedetector";
 import en from "./en/translation.json";
-import pl from "./pl/translation.json";
+import pt from "./pt/translation.json";
+import fr from "./fr/translation.json";
 
 export const resources = {
   en: {
     translation: en,
   },
-  pl: {
-    translation: pl,
+  pt: {
+    translation: pt,
+  },
+  fr: {
+    translation: fr,
   },
 } as const;
 

@@ -80,8 +80,16 @@ const Header = () => {
             "h-full cursor-pointer text-[50px] text-gray-dark ",
             i18n.language === "pl" && "brightness-50",
           )}
-          icon="twemoji-flag-for-flag-poland"
-          onClick={() => i18n.changeLanguage("pl")}
+          icon="twemoji:flag-brazil"
+          onClick={() => i18n.changeLanguage("pt")}
+        />
+        <Icon
+          className={clsx(
+            "h-full cursor-pointer text-[50px] text-gray-dark ",
+            i18n.language === "pl" && "brightness-50",
+          )}
+          icon="twemoji:flag-france"
+          onClick={() => i18n.changeLanguage("fr")}
         />
       </div>
     </>
