@@ -9,11 +9,11 @@
     ],
     "socials": [
       {
-        "icon": "mdi:linkedin",
+        "class": "mdi:linkedin",
         "url": "https://www.linkedin.com/in/sandrojr/"
       },
       {
-        "icon": "mdi:github",
+        "class": "mdi:github",
         "url": "https://github.com/sandrorvr?tab=repositories"
       }
     ]
@@ -58,22 +58,22 @@
         "technologies": [
           {
             "name": "Python",
-            "icon": "devicon:python",
+            "class": "devicon:python",
             "usage": "Logique principale de l'application"
           },
           {
             "name": "Scapy",
-            "icon": "simple-icons:scapy",
+            "class": "simple-icons:scapy",
             "usage": "Analyse de paquets réseau"
           },
           {
             "name": "SQLite",
-            "icon": "devicon:sqlite",
+            "class": "devicon:sqlite",
             "usage": "Stockage de base de données des appareils"
           },
           {
             "name": "Bash",
-            "icon": "devicon:bash",
+            "class": "devicon:bash",
             "usage": "Scripts d'installation"
           }
         ]
@@ -88,23 +88,20 @@
         "technologies": [
       {
         "name": "Python",
-        "icon": "devicon:python",
-        "usage": "Logique principale du scraping"
+        "class": "devicon:python"
       },
       {
         "name": "BeautifulSoup",
-        "icon": "simple-icons:beautifulsoup",
-        "usage": "Analyse HTML"
+        "class": "simple-icons:beautifulsoup"
       },
       {
         "name": "Pandas",
-        "icon": "simple-icons:pandas",
-        "usage": "Traitement des données"
+        "class": "simple-icons:pandas"
       },
       {
         "name": "Matplotlib",
-        "icon": "simple-icons:matplotlib",
-        "usage": "Visualisation des données"
+        "class": "simple-icons:matplotlib"
+
       }
     ]
       }

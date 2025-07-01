@@ -58,22 +58,22 @@
         "technologies": [
           {
             "name": "Python",
-            "icon": "devicon:python",
+            "class": "devicon:python",
             "usage": "Lógica principal da aplicação"
           },
           {
             "name": "Scapy",
-            "icon": "simple-icons:scapy",
+            "class": "simple-icons:scapy",
             "usage": "Análise de pacotes de rede"
           },
           {
             "name": "SQLite",
-            "icon": "devicon:sqlite",
+            "class": "devicon:sqlite",
             "usage": "Armazenamento de banco de dados de dispositivos"
           },
           {
             "name": "Bash",
-            "icon": "devicon:bash",
+            "class": "devicon:bash",
             "usage": "Scripts de instalação"
           }
         ]
@@ -88,22 +88,22 @@
         "technologies": [
       {
         "name": "Python",
-        "icon": "devicon:python",
+        "class": "devicon:python",
         "usage": "Lógica principal do scraping"
       },
       {
         "name": "BeautifulSoup",
-        "icon": "simple-icons:beautifulsoup",
+        "class": "simple-icons:beautifulsoup",
         "usage": "Análise de HTML"
       },
       {
         "name": "Pandas",
-        "icon": "simple-icons:pandas",
+        "class": "simple-icons:pandas",
         "usage": "Processamento de dados"
       },
       {
         "name": "Matplotlib",
-        "icon": "simple-icons:matplotlib",
+        "class": "simple-icons:matplotlib",
         "usage": "Visualização de dados"
       }
     ]
